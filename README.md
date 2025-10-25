@@ -4,6 +4,8 @@
 
 NewsCast is an intelligent system that automatically processes newsletters from your inbox and creates engaging, multi-speaker podcasts. Never miss important news again - just listen to your personalized daily briefing.
 
+https://github.com/user-attachments/assets/950e15ae-3f54-4a15-a486-375364dfa710
+
 ## ✨ What Makes NewsCast Special
 
 ### 🎧 **Professional Podcast Quality**
